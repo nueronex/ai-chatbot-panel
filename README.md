@@ -99,12 +99,12 @@ Open your browser and go to: http://127.0.0.1:5000
 
 Interact with the chatbot in a fun, modern black & blue themed interface.
 
-👨‍💻 Developed By
+### 👨‍💻 Developed By
 Team Nueronex
 
 A project that merges conversational AI with elegant frontend design for delightful customer interactions.
 
-📄 License
+### 📄 License
 This project is open-source and free to use under the MIT License.
 
 🙌 Contributions
